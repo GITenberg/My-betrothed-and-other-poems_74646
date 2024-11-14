@@ -1,0 +1,28 @@
+_repo: My-betrothed-and-other-poems_74646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magie, Lizzie
+    gutenberg_agent_id: '57585'
+    url: http://www.gutenberg.org/2009/agents/57585
+description: ''
+gutenberg_issued: '2024-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74646'
+language: en
+pgterms:marc904: https://archive.org/details/mybetrothedother00magi/page/n5/mode/2up
+pgterms:marc905: 20240120112947magie
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Carla Foust, Chris Hapka and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aWashington, D. C. :$bThe Brodix Publishing Company, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My betrothed and other poems
+url: http://www.gutenberg.org/ebooks/74646
